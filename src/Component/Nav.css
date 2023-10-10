@@ -1,0 +1,12 @@
+.Nav{
+    max-width: 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0 15px;
+}
+.logo{
+    cursor: pointer;
+    max-width: 100%;
+    display: flex;
+}
